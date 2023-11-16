@@ -11,7 +11,7 @@ print(f"Площадь вашего круга составляет {round(s_are
 
 # from math import pi as PI
 # PI = 3.14
-20
+# 20
 # radius = float(input("Enter circle radius: "))
 
 # circle_lenght = 2 * PI * radius
